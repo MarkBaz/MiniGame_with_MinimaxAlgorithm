@@ -1,5 +1,3 @@
-A mini MxN board game you can play against another player or the computer. The computer uses a minimax algorithm.
-
 Game Rules:
   1. Each player decides their starting position on the board.
   2. The player can make moves just like a queen in chess, horizontaly, vertically and diagonally.
